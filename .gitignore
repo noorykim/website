@@ -1,0 +1,7 @@
+.DS_Store
+
+# ignore vim temp files (ending with tilde)
+*~
+
+/tmp
+/temp
